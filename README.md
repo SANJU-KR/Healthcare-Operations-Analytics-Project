@@ -49,5 +49,9 @@ This repository features an end-to-end data analytics enterprise pipeline built 
   
 ---
 
-**Author:** Sahdev  
-*Portfolio Project for Data Analytics Profiles.*
+## Author
+
+**Sanju Kumar**
+
+[LinkedIn](http://www.linkedin.com/in/sanjukumar10) &nbsp;|&nbsp; [GitHub](https://github.com/SANJU-KR)
+
